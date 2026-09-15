@@ -67,8 +67,8 @@
     <Compile Include="Assets\Assets 1\Scripts\EnemyLeftRight.cs" />
     <Compile Include="Assets\Assets 1\Scripts\GravityGun.cs" />
     <Compile Include="Assets\Assets 1\Scripts\PlayerShooting.cs" />
-    <Compile Include="Assets\Assets 1\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Assets 1\Scripts\Coins.cs" />
+    <Compile Include="Assets\Assets\Zipline.cs" />
     <Compile Include="Assets\Assets 1\Scripts\deepseek.cs" />
     <Compile Include="Assets\Assets 1\Scripts\Treadmill.cs" />
     <Compile Include="Assets\Assets 1\Scripts\Coin.cs" />
@@ -79,6 +79,7 @@
     <Compile Include="Assets\Assets 1\Scripts\Shop.cs" />
     <Compile Include="Assets\Assets 1\Scripts\MathExcersise.cs" />
     <Compile Include="Assets\Assets 1\Scripts\logetk.cs" />
+    <Compile Include="Assets\Assets\PlayerMovement1.cs" />
     <Compile Include="Assets\Assets 1\Scripts\ActionOnCollision.cs" />
     <Compile Include="Assets\Assets 1\Scripts\SceneChanger.cs" />
     <Compile Include="Assets\Assets 1\Scripts\BotScript.cs" />

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\Unity\\euroveawallrun\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD9CAD42-0635-0726-DC42-05DE433F84FB}|Assembly-CSharp.csproj|e:\\unity\\euroveawallrun\\assets\\assets 1\\scripts\\gravitygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD9CAD42-0635-0726-DC42-05DE433F84FB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets 1\\scripts\\gravitygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\euroveawallrun\\Library\\PackageCache\\com.unity.render-pipelines.universal@a832bbec7472\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a832bbec7472\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9CAD42-0635-0726-DC42-05DE433F84FB}|Assembly-CSharp.csproj|e:\\unity\\euroveawallrun\\assets\\assets\\playermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9CAD42-0635-0726-DC42-05DE433F84FB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\playermovement1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\euroveawallrun\\Assets\\TutorialInfo\\Scripts\\Readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GravityGun.cs",
-              "DocumentMoniker": "E:\\Unity\\euroveawallrun\\Assets\\Assets 1\\Scripts\\GravityGun.cs",
-              "RelativeDocumentMoniker": "Assets\\Assets 1\\Scripts\\GravityGun.cs",
-              "ToolTip": "E:\\Unity\\euroveawallrun\\Assets\\Assets 1\\Scripts\\GravityGun.cs",
-              "RelativeToolTip": "Assets\\Assets 1\\Scripts\\GravityGun.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvzYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T10:04:29.534Z",
+              "Title": "Lit.shader",
+              "DocumentMoniker": "E:\\Unity\\euroveawallrun\\Library\\PackageCache\\com.unity.render-pipelines.universal@a832bbec7472\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a832bbec7472\\Shaders\\Lit.shader",
+              "ToolTip": "E:\\Unity\\euroveawallrun\\Library\\PackageCache\\com.unity.render-pipelines.universal@a832bbec7472\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a832bbec7472\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-09-15T11:45:29.698Z",
               "EditorCaption": ""
             },
             {
@@ -40,6 +44,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerMovement1.cs",
+              "DocumentMoniker": "E:\\Unity\\euroveawallrun\\Assets\\Assets\\PlayerMovement1.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\PlayerMovement1.cs",
+              "ToolTip": "E:\\Unity\\euroveawallrun\\Assets\\Assets\\PlayerMovement1.cs",
+              "RelativeToolTip": "Assets\\Assets\\PlayerMovement1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:28:27.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Readme.cs",
               "DocumentMoniker": "E:\\Unity\\euroveawallrun\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
               "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
